@@ -63,7 +63,7 @@ body {
     background-image: url("https://i.pinimg.com/564x/bd/27/23/bd2723cccfec31aeb82b41034fdd2933.jpg");
   }
   .envelope:hover .envelope__letter {
-    height: 200px;
+    height: 205px;
     color: #4c4444;
   }
 
